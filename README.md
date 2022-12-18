@@ -12,8 +12,7 @@
 
 - *It took me around 8 hours to complete the webpage.*
 
-# Live link of projects:
- [project 03]()
+ # [Live project 03](https://bucolic-gecko-ed2512.netlify.app/)
 
  ### Preview:
 
